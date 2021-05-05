@@ -86,7 +86,26 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: 'Steven Universe',
+    date: 'May 21, 2013',
+    firstParagraph: `I eat at the Big Donut.`,
+
+    secondParagraph: `I'm a Gem. `,
+
+    thirdParagraph: `I will protect my friends.`
+  },
+  {
+    title: 'Dark Souls',
+    date: 'September 22, 2011',
+    firstParagraph: `Seek the flame.`,
+
+    secondParagraph: `Link the flame. `,
+
+    thirdParagraph: `Become the flame.`
   }
+
 ];
 
 /*
